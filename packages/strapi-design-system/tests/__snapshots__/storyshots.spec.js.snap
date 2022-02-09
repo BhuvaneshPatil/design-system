@@ -1454,7 +1454,7 @@ exports[`Storyshots Design System/Components/Breadcrumbs base 1`] = `
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
-                d="M.12 1.88L6.227 8 .12 14.12 2 16l8-8-8-8L.12 1.88z"
+                d="M0 1.88L6.107 8 0 14.12 1.88 16l8-8-8-8L0 1.88z"
                 fill="#32324D"
               />
             </svg>
@@ -1480,7 +1480,7 @@ exports[`Storyshots Design System/Components/Breadcrumbs base 1`] = `
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
-                d="M.12 1.88L6.227 8 .12 14.12 2 16l8-8-8-8L.12 1.88z"
+                d="M0 1.88L6.107 8 0 14.12 1.88 16l8-8-8-8L0 1.88z"
                 fill="#32324D"
               />
             </svg>
@@ -2419,7 +2419,7 @@ exports[`Storyshots Design System/Components/Button icons 1`] = `
         >
           <path
             clip-rule="evenodd"
-            d="M23.708.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.023.038l-2-1.47a1 1 0 00-1.265.052 14 14 0 00-4.717 10.463v1.585l-2.708 2.708a1 1 0 101.415 1.415l2.708-2.708H10a14.015 14.015 0 0014-14v-2a1 1 0 00-.293-.707zM18 24H3a3 3 0 01-3-3V6a3 3 0 013-3h3a1 1 0 010 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 012 0v3a3 3 0 01-3 3z"
+            d="M23.707.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.022.038l-2-1.47a1 1 0 00-1.265.052A14 14 0 007 14.004v1.585l-2.707 2.707a1 1 0 101.415 1.415l2.707-2.708H10a14.014 14.014 0 0014-14v-2a1 1 0 00-.293-.706zM18 23.999H3a3 3 0 01-3-3V6A3 3 0 013 3h3a1 1 0 110 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 112 0v3a3 3 0 01-3 3z"
             fill="#212134"
             fill-rule="evenodd"
           />
@@ -3978,7 +3978,7 @@ exports[`Storyshots Design System/Components/Card base 1`] = `
             >
               <path
                 clip-rule="evenodd"
-                d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                 fill="#212134"
                 fill-rule="evenodd"
               />
@@ -4191,7 +4191,7 @@ exports[`Storyshots Design System/Components/Card keyboard navigable 1`] = `
             >
               <path
                 clip-rule="evenodd"
-                d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                 fill="#212134"
                 fill-rule="evenodd"
               />
@@ -4253,7 +4253,7 @@ exports[`Storyshots Design System/Components/Card keyboard navigable 1`] = `
             >
               <path
                 clip-rule="evenodd"
-                d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                 fill="#212134"
                 fill-rule="evenodd"
               />
@@ -4315,7 +4315,7 @@ exports[`Storyshots Design System/Components/Card keyboard navigable 1`] = `
             >
               <path
                 clip-rule="evenodd"
-                d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                 fill="#212134"
                 fill-rule="evenodd"
               />
@@ -4377,7 +4377,7 @@ exports[`Storyshots Design System/Components/Card keyboard navigable 1`] = `
             >
               <path
                 clip-rule="evenodd"
-                d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                 fill="#212134"
                 fill-rule="evenodd"
               />
@@ -4720,7 +4720,7 @@ exports[`Storyshots Design System/Components/Card with asset icon 1`] = `
           >
             <path
               clip-rule="evenodd"
-              d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+              d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
               fill="#212134"
               fill-rule="evenodd"
             />
@@ -4920,7 +4920,7 @@ exports[`Storyshots Design System/Components/Card without asset 1`] = `
           >
             <path
               clip-rule="evenodd"
-              d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+              d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
               fill="#212134"
               fill-rule="evenodd"
             />
@@ -5947,7 +5947,7 @@ exports[`Storyshots Design System/Components/CarouselInput base 1`] = `
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
-                d="M.12 1.88L6.227 8 .12 14.12 2 16l8-8-8-8L.12 1.88z"
+                d="M0 1.88L6.107 8 0 14.12 1.88 16l8-8-8-8L0 1.88z"
                 fill="#32324D"
               />
             </svg>
@@ -6022,7 +6022,7 @@ exports[`Storyshots Design System/Components/CarouselInput base 1`] = `
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                    d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                     fill="#212134"
                     fill-rule="evenodd"
                   />
@@ -6089,7 +6089,7 @@ exports[`Storyshots Design System/Components/CarouselInput base 1`] = `
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
-                    d="M4 21.65V2.35a.2.2 0 01.301-.173l16.406 9.65a.2.2 0 010 .345L4.3 21.822A.2.2 0 014 21.65z"
+                    d="M4 20.252V3.748a1 1 0 011.507-.862l14.028 8.252a1 1 0 010 1.724L5.507 21.113A1 1 0 014 20.252z"
                     fill="#212134"
                   />
                 </svg>
@@ -6396,7 +6396,7 @@ exports[`Storyshots Design System/Components/CarouselInput one slide only 1`] = 
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                    d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                     fill="#212134"
                     fill-rule="evenodd"
                   />
@@ -6463,7 +6463,7 @@ exports[`Storyshots Design System/Components/CarouselInput one slide only 1`] = 
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
-                    d="M4 21.65V2.35a.2.2 0 01.301-.173l16.406 9.65a.2.2 0 010 .345L4.3 21.822A.2.2 0 014 21.65z"
+                    d="M4 20.252V3.748a1 1 0 011.507-.862l14.028 8.252a1 1 0 010 1.724L5.507 21.113A1 1 0 014 20.252z"
                     fill="#212134"
                   />
                 </svg>
@@ -7575,13 +7575,13 @@ exports[`Storyshots Design System/Components/Combobox base 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -7817,13 +7817,13 @@ exports[`Storyshots Design System/Components/Combobox creatable 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -8064,13 +8064,13 @@ exports[`Storyshots Design System/Components/Combobox disabled 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -8312,13 +8312,13 @@ exports[`Storyshots Design System/Components/Combobox error 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -8601,13 +8601,13 @@ exports[`Storyshots Design System/Components/Combobox initial-data 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -8828,13 +8828,13 @@ exports[`Storyshots Design System/Components/Combobox withoutLabel 1`] = `
             <svg
               fill="none"
               height="1em"
-              viewBox="0 0 14 8"
+              viewBox="0 0 24 24"
               width="1em"
               xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 clip-rule="evenodd"
-                d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                 fill="#32324D"
                 fill-rule="evenodd"
               />
@@ -12417,7 +12417,7 @@ exports[`Storyshots Design System/Components/HeaderLayout base 1`] = `
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                    d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                     fill="#212134"
                     fill-rule="evenodd"
                   />
@@ -12801,7 +12801,7 @@ exports[`Storyshots Design System/Components/HeaderLayout base without nav actio
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                    d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                     fill="#212134"
                     fill-rule="evenodd"
                   />
@@ -13294,7 +13294,7 @@ exports[`Storyshots Design System/Components/HeaderLayout combined w/ scroll 1`]
                   >
                     <path
                       clip-rule="evenodd"
-                      d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                      d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                       fill="#212134"
                       fill-rule="evenodd"
                     />
@@ -13810,7 +13810,7 @@ exports[`Storyshots Design System/Components/HeaderLayout sticky 1`] = `
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                    d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                     fill="#212134"
                     fill-rule="evenodd"
                   />
@@ -14026,7 +14026,7 @@ exports[`Storyshots Design System/Components/IconButton base 1`] = `
           >
             <path
               clip-rule="evenodd"
-              d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+              d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
               fill="#212134"
               fill-rule="evenodd"
             />
@@ -14093,7 +14093,7 @@ exports[`Storyshots Design System/Components/IconButton base 1`] = `
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M4 21.65V2.35a.2.2 0 01.301-.173l16.406 9.65a.2.2 0 010 .345L4.3 21.822A.2.2 0 014 21.65z"
+              d="M4 20.252V3.748a1 1 0 011.507-.862l14.028 8.252a1 1 0 010 1.724L5.507 21.113A1 1 0 014 20.252z"
               fill="#212134"
             />
           </svg>
@@ -14264,7 +14264,7 @@ exports[`Storyshots Design System/Components/IconButton disabled 1`] = `
           >
             <path
               clip-rule="evenodd"
-              d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+              d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
               fill="#212134"
               fill-rule="evenodd"
             />
@@ -14331,7 +14331,7 @@ exports[`Storyshots Design System/Components/IconButton disabled 1`] = `
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M4 21.65V2.35a.2.2 0 01.301-.173l16.406 9.65a.2.2 0 010 .345L4.3 21.822A.2.2 0 014 21.65z"
+              d="M4 20.252V3.748a1 1 0 011.507-.862l14.028 8.252a1 1 0 010 1.724L5.507 21.113A1 1 0 014 20.252z"
               fill="#212134"
             />
           </svg>
@@ -14540,7 +14540,7 @@ exports[`Storyshots Design System/Components/IconButton group 1`] = `
           >
             <path
               clip-rule="evenodd"
-              d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+              d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
               fill="#212134"
               fill-rule="evenodd"
             />
@@ -14607,7 +14607,7 @@ exports[`Storyshots Design System/Components/IconButton group 1`] = `
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M4 21.65V2.35a.2.2 0 01.301-.173l16.406 9.65a.2.2 0 010 .345L4.3 21.822A.2.2 0 014 21.65z"
+              d="M4 20.252V3.748a1 1 0 011.507-.862l14.028 8.252a1 1 0 010 1.724L5.507 21.113A1 1 0 014 20.252z"
               fill="#212134"
             />
           </svg>
@@ -14759,7 +14759,7 @@ exports[`Storyshots Design System/Components/IconButton without tooltip 1`] = `
       >
         <path
           clip-rule="evenodd"
-          d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+          d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
           fill="#212134"
           fill-rule="evenodd"
         />
@@ -15888,13 +15888,13 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                         aria-hidden="true"
                         fill="none"
                         height="1em"
-                        viewBox="0 0 14 8"
+                        viewBox="0 0 24 24"
                         width="1em"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
                           clip-rule="evenodd"
-                          d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                          d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                           fill="#32324D"
                           fill-rule="evenodd"
                         />
@@ -16085,13 +16085,13 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                         aria-hidden="true"
                         fill="none"
                         height="1em"
-                        viewBox="0 0 14 8"
+                        viewBox="0 0 24 24"
                         width="1em"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
                           clip-rule="evenodd"
-                          d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                          d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                           fill="#32324D"
                           fill-rule="evenodd"
                         />
@@ -16131,13 +16131,13 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                             aria-hidden="true"
                             fill="none"
                             height="1em"
-                            viewBox="0 0 14 8"
+                            viewBox="0 0 24 24"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                               fill="#32324D"
                               fill-rule="evenodd"
                             />
@@ -16347,7 +16347,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                       >
                         <path
                           clip-rule="evenodd"
-                          d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                          d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                           fill="#212134"
                           fill-rule="evenodd"
                         />
@@ -17592,7 +17592,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                               >
                                 <path
                                   clip-rule="evenodd"
-                                  d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                                  d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                                   fill="#212134"
                                   fill-rule="evenodd"
                                 />
@@ -17763,7 +17763,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                               >
                                 <path
                                   clip-rule="evenodd"
-                                  d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                                  d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                                   fill="#212134"
                                   fill-rule="evenodd"
                                 />
@@ -17934,7 +17934,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                               >
                                 <path
                                   clip-rule="evenodd"
-                                  d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                                  d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                                   fill="#212134"
                                   fill-rule="evenodd"
                                 />
@@ -18105,7 +18105,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                               >
                                 <path
                                   clip-rule="evenodd"
-                                  d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                                  d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                                   fill="#212134"
                                   fill-rule="evenodd"
                                 />
@@ -18276,7 +18276,7 @@ exports[`Storyshots Design System/Components/Layout base 1`] = `
                               >
                                 <path
                                   clip-rule="evenodd"
-                                  d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                                  d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                                   fill="#212134"
                                   fill-rule="evenodd"
                                 />
@@ -18453,144 +18453,150 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
 }
 
 .c17 {
-  background: #eaeaef;
+  background: #181826;
   color: #212134;
   padding: 12px;
 }
 
 .c18 {
-  background: #dcdce4;
+  background: #eaeaef;
   color: #212134;
   padding: 12px;
 }
 
 .c19 {
-  background: #c0c0cf;
+  background: #dcdce4;
   color: #212134;
   padding: 12px;
 }
 
 .c20 {
-  background: #a5a5ba;
+  background: #c0c0cf;
   color: #212134;
   padding: 12px;
 }
 
 .c21 {
-  background: #8e8ea9;
+  background: #a5a5ba;
   color: #212134;
   padding: 12px;
 }
 
 .c22 {
+  background: #8e8ea9;
+  color: #212134;
+  padding: 12px;
+}
+
+.c23 {
   background: #666687;
   color: #ffffff;
   padding: 12px;
 }
 
-.c23 {
+.c24 {
   background: #4a4a6a;
   color: #ffffff;
   padding: 12px;
 }
 
-.c24 {
+.c25 {
   background: #32324d;
   color: #ffffff;
   padding: 12px;
 }
 
-.c25 {
+.c26 {
   background: #212134;
   color: #ffffff;
   padding: 12px;
 }
 
-.c26 {
+.c27 {
   background: #f0f0ff;
   color: #212134;
   padding: 12px;
 }
 
-.c27 {
+.c28 {
   background: #d9d8ff;
   color: #212134;
   padding: 12px;
 }
 
-.c28 {
+.c29 {
   background: #7b79ff;
   color: #212134;
   padding: 12px;
 }
 
-.c29 {
+.c30 {
   background: #4945ff;
   color: #ffffff;
   padding: 12px;
 }
 
-.c30 {
+.c31 {
   background: #271fe0;
   color: #ffffff;
   padding: 12px;
 }
 
-.c31 {
+.c32 {
   background: #eaf5ff;
   color: #212134;
   padding: 12px;
 }
 
-.c32 {
+.c33 {
   background: #b8e1ff;
   color: #212134;
   padding: 12px;
 }
 
-.c33 {
+.c34 {
   background: #66b7f1;
   color: #212134;
   padding: 12px;
 }
 
-.c34 {
+.c35 {
   background: #0c75af;
   color: #ffffff;
   padding: 12px;
 }
 
-.c35 {
+.c36 {
   background: #006096;
   color: #ffffff;
   padding: 12px;
 }
 
-.c36 {
+.c37 {
   background: #eafbe7;
   color: #212134;
   padding: 12px;
 }
 
-.c37 {
+.c38 {
   background: #c6f0c2;
   color: #212134;
   padding: 12px;
 }
 
-.c38 {
+.c39 {
   background: #5cb176;
   color: #212134;
   padding: 12px;
 }
 
-.c39 {
+.c40 {
   background: #328048;
   color: #ffffff;
   padding: 12px;
 }
 
-.c40 {
+.c41 {
   background: #2f6846;
   color: #ffffff;
   padding: 12px;
@@ -18748,45 +18754,50 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
             <div
               class="c17"
             >
-              neutral150
+              neutral1000
             </div>
             <div
               class="c18"
             >
-              neutral200
+              neutral150
             </div>
             <div
               class="c19"
             >
-              neutral300
+              neutral200
             </div>
             <div
               class="c20"
             >
-              neutral400
+              neutral300
             </div>
             <div
               class="c21"
             >
-              neutral500
+              neutral400
             </div>
             <div
               class="c22"
             >
-              neutral600
+              neutral500
             </div>
             <div
               class="c23"
             >
-              neutral700
+              neutral600
             </div>
             <div
               class="c24"
             >
-              neutral800
+              neutral700
             </div>
             <div
               class="c25"
+            >
+              neutral800
+            </div>
+            <div
+              class="c26"
             >
               neutral900
             </div>
@@ -18803,27 +18814,27 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
             class="c4"
           >
             <div
-              class="c26"
+              class="c27"
             >
               primary100
             </div>
             <div
-              class="c27"
+              class="c28"
             >
               primary200
             </div>
             <div
-              class="c28"
+              class="c29"
             >
               primary500
             </div>
             <div
-              class="c29"
+              class="c30"
             >
               primary600
             </div>
             <div
-              class="c30"
+              class="c31"
             >
               primary700
             </div>
@@ -18840,27 +18851,27 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
             class="c4"
           >
             <div
-              class="c31"
+              class="c32"
             >
               secondary100
             </div>
             <div
-              class="c32"
+              class="c33"
             >
               secondary200
             </div>
             <div
-              class="c33"
+              class="c34"
             >
               secondary500
             </div>
             <div
-              class="c34"
+              class="c35"
             >
               secondary600
             </div>
             <div
-              class="c35"
+              class="c36"
             >
               secondary700
             </div>
@@ -18877,27 +18888,27 @@ exports[`Storyshots Design System/Components/LightTheme colors 1`] = `
             class="c4"
           >
             <div
-              class="c36"
+              class="c37"
             >
               success100
             </div>
             <div
-              class="c37"
+              class="c38"
             >
               success200
             </div>
             <div
-              class="c38"
+              class="c39"
             >
               success500
             </div>
             <div
-              class="c39"
+              class="c40"
             >
               success600
             </div>
             <div
-              class="c40"
+              class="c41"
             >
               success700
             </div>
@@ -19653,7 +19664,7 @@ exports[`Storyshots Design System/Components/Link base 1`] = `
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M.12 1.88L6.227 8 .12 14.12 2 16l8-8-8-8L.12 1.88z"
+              d="M0 1.88L6.107 8 0 14.12 1.88 16l8-8-8-8L0 1.88z"
               fill="#32324D"
             />
           </svg>
@@ -20366,7 +20377,7 @@ exports[`Storyshots Design System/Components/LinkButton icons 1`] = `
         >
           <path
             clip-rule="evenodd"
-            d="M23.708.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.023.038l-2-1.47a1 1 0 00-1.265.052 14 14 0 00-4.717 10.463v1.585l-2.708 2.708a1 1 0 101.415 1.415l2.708-2.708H10a14.015 14.015 0 0014-14v-2a1 1 0 00-.293-.707zM18 24H3a3 3 0 01-3-3V6a3 3 0 013-3h3a1 1 0 010 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 012 0v3a3 3 0 01-3 3z"
+            d="M23.707.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.022.038l-2-1.47a1 1 0 00-1.265.052A14 14 0 007 14.004v1.585l-2.707 2.707a1 1 0 101.415 1.415l2.707-2.708H10a14.014 14.014 0 0014-14v-2a1 1 0 00-.293-.706zM18 23.999H3a3 3 0 01-3-3V6A3 3 0 013 3h3a1 1 0 110 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 112 0v3a3 3 0 01-3 3z"
             fill="#212134"
             fill-rule="evenodd"
           />
@@ -22476,7 +22487,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
                     >
                       <path
                         clip-rule="evenodd"
-                        d="M23.708.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.023.038l-2-1.47a1 1 0 00-1.265.052 14 14 0 00-4.717 10.463v1.585l-2.708 2.708a1 1 0 101.415 1.415l2.708-2.708H10a14.015 14.015 0 0014-14v-2a1 1 0 00-.293-.707zM18 24H3a3 3 0 01-3-3V6a3 3 0 013-3h3a1 1 0 010 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 012 0v3a3 3 0 01-3 3z"
+                        d="M23.707.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.022.038l-2-1.47a1 1 0 00-1.265.052A14 14 0 007 14.004v1.585l-2.707 2.707a1 1 0 101.415 1.415l2.707-2.708H10a14.014 14.014 0 0014-14v-2a1 1 0 00-.293-.706zM18 23.999H3a3 3 0 01-3-3V6A3 3 0 013 3h3a1 1 0 110 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 112 0v3a3 3 0 01-3 3z"
                         fill="#212134"
                         fill-rule="evenodd"
                       />
@@ -22661,13 +22672,13 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
                           <svg
                             fill="none"
                             height="1em"
-                            viewBox="0 0 26 26"
+                            viewBox="0 0 25 25"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14.06 1.171l3.118 3.118 1.869-1.869a3.206 3.206 0 114.534 4.534l-1.869 1.869 3.117 3.117a1.5 1.5 0 010 2.121l-3.116 3.117-1.155-1.155a3.206 3.206 0 10-4.535 4.534l1.155 1.155-3.117 3.118a1.5 1.5 0 01-2.122 0l-3.116-3.117-1.868 1.867a3.206 3.206 0 11-4.534-4.534l1.867-1.867-3.117-3.118a1.5 1.5 0 010-2.121l3.117-3.118 1.155 1.156a3.206 3.206 0 004.535-4.535L8.822 4.288l3.117-3.117a1.5 1.5 0 012.122 0z"
+                              d="M13.58.448l3.177 3.176L18.66 1.72a3.267 3.267 0 114.62 4.62l-1.904 1.904 3.175 3.175a1.528 1.528 0 010 2.162l-3.175 3.175L20.2 15.58a3.267 3.267 0 10-4.62 4.62l1.177 1.177-3.176 3.176a1.528 1.528 0 01-2.162 0l-3.175-3.175-1.902 1.902a3.267 3.267 0 11-4.62-4.62l1.902-1.902-3.176-3.176a1.528 1.528 0 010-2.162l3.176-3.176L4.8 9.42a3.267 3.267 0 004.62-4.62L8.244 3.623 11.419.448a1.528 1.528 0 012.162 0z"
                               fill="#212134"
                               fill-rule="evenodd"
                             />
@@ -22745,7 +22756,7 @@ exports[`Storyshots Design System/Components/MainNav base 1`] = `
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M21.255 12c0 .408-.037.792-.086 1.176l2.603 1.98c.234.18.296.504.148.768l-2.467 4.152c-.148.264-.47.372-.753.264l-3.072-1.2a9.544 9.544 0 01-2.085 1.176l-.468 3.18a.596.596 0 01-.605.504H9.535a.597.597 0 01-.604-.504l-.469-3.18a9.077 9.077 0 01-2.085-1.176l-3.072 1.2c-.271.096-.604 0-.752-.264L.086 15.924a.594.594 0 01.148-.768l2.603-1.98A9.263 9.263 0 012.75 12c0-.396.037-.792.087-1.176L.234 8.844a.581.581 0 01-.148-.768l2.467-4.152c.148-.264.469-.372.752-.264l3.072 1.2a9.545 9.545 0 012.085-1.176l.469-3.18A.597.597 0 019.535 0h4.935c.308 0 .567.216.604.504l.47 3.18c.752.3 1.443.696 2.084 1.176l3.072-1.2c.271-.096.605 0 .753.264l2.467 4.152a.594.594 0 01-.148.768l-2.603 1.98c.05.384.086.768.086 1.176zm-13.57 0c0 2.316 1.937 4.2 4.318 4.2 2.38 0 4.318-1.884 4.318-4.2 0-2.316-1.937-4.2-4.318-4.2-2.381 0-4.318 1.884-4.318 4.2z"
+                              d="M2.68 9.192c-.6.276-2.114 1.18-2.306 1.303a.792.792 0 00-.374.68v1.65a.797.797 0 00.384.687c.254.16 1.73 1.042 2.306 1.303l.744 1.8c-.24.634-.67 2.333-.72 2.554a.797.797 0 00.216.744l1.167 1.166a.801.801 0 00.744.216l.03-.008c.36-.092 1.946-.498 2.523-.712l1.8.744c.276.6 1.181 2.115 1.304 2.307a.805.805 0 00.679.374h1.649a.797.797 0 00.686-.384c.16-.254 1.042-1.73 1.303-2.306l1.8-.744c.634.24 2.333.67 2.554.72a.797.797 0 00.744-.216l1.166-1.167a.803.803 0 00.216-.744l-.008-.03c-.092-.36-.498-1.946-.712-2.523l.744-1.8c.6-.276 2.115-1.181 2.307-1.304a.804.804 0 00.374-.679v-1.649a.796.796 0 00-.382-.679c-.254-.16-1.73-1.041-2.306-1.303l-.744-1.8c.24-.634.67-2.333.72-2.554a.796.796 0 00-.216-.744l-1.166-1.173a.802.802 0 00-.744-.216l-.03.008c-.361.092-1.947.498-2.524.712l-1.8-.744c-.276-.6-1.18-2.115-1.303-2.307a.803.803 0 00-.68-.374h-1.65a.797.797 0 00-.68.382c-.16.254-1.041 1.73-1.303 2.306l-1.8.744c-.634-.24-2.333-.67-2.554-.72a.797.797 0 00-.744.216L2.921 4.094a.802.802 0 00-.216.744l.008.03c.092.361.498 1.947.712 2.524l-.744 1.8zM12 17a5 5 0 100-10 5 5 0 000 10z"
                               fill="#212134"
                               fill-rule="evenodd"
                             />
@@ -23308,7 +23319,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
                     >
                       <path
                         clip-rule="evenodd"
-                        d="M23.708.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.023.038l-2-1.47a1 1 0 00-1.265.052 14 14 0 00-4.717 10.463v1.585l-2.708 2.708a1 1 0 101.415 1.415l2.708-2.708H10a14.015 14.015 0 0014-14v-2a1 1 0 00-.293-.707zM18 24H3a3 3 0 01-3-3V6a3 3 0 013-3h3a1 1 0 010 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 012 0v3a3 3 0 01-3 3z"
+                        d="M23.707.297A1 1 0 0023 .004h-2a13.907 13.907 0 00-5.38 1.077 1 1 0 00-.615.923V4.92a.035.035 0 01-.022.038l-2-1.47a1 1 0 00-1.265.052A14 14 0 007 14.004v1.585l-2.707 2.707a1 1 0 101.415 1.415l2.707-2.708H10a14.014 14.014 0 0014-14v-2a1 1 0 00-.293-.706zM18 23.999H3a3 3 0 01-3-3V6A3 3 0 013 3h3a1 1 0 110 2H3a1 1 0 00-1 1v15a1 1 0 001 1h15a1 1 0 001-1v-3a1 1 0 112 0v3a3 3 0 01-3 3z"
                         fill="#212134"
                         fill-rule="evenodd"
                       />
@@ -23493,13 +23504,13 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
                           <svg
                             fill="none"
                             height="1em"
-                            viewBox="0 0 26 26"
+                            viewBox="0 0 25 25"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14.06 1.171l3.118 3.118 1.869-1.869a3.206 3.206 0 114.534 4.534l-1.869 1.869 3.117 3.117a1.5 1.5 0 010 2.121l-3.116 3.117-1.155-1.155a3.206 3.206 0 10-4.535 4.534l1.155 1.155-3.117 3.118a1.5 1.5 0 01-2.122 0l-3.116-3.117-1.868 1.867a3.206 3.206 0 11-4.534-4.534l1.867-1.867-3.117-3.118a1.5 1.5 0 010-2.121l3.117-3.118 1.155 1.156a3.206 3.206 0 004.535-4.535L8.822 4.288l3.117-3.117a1.5 1.5 0 012.122 0z"
+                              d="M13.58.448l3.177 3.176L18.66 1.72a3.267 3.267 0 114.62 4.62l-1.904 1.904 3.175 3.175a1.528 1.528 0 010 2.162l-3.175 3.175L20.2 15.58a3.267 3.267 0 10-4.62 4.62l1.177 1.177-3.176 3.176a1.528 1.528 0 01-2.162 0l-3.175-3.175-1.902 1.902a3.267 3.267 0 11-4.62-4.62l1.902-1.902-3.176-3.176a1.528 1.528 0 010-2.162l3.176-3.176L4.8 9.42a3.267 3.267 0 004.62-4.62L8.244 3.623 11.419.448a1.528 1.528 0 012.162 0z"
                               fill="#212134"
                               fill-rule="evenodd"
                             />
@@ -23587,7 +23598,7 @@ exports[`Storyshots Design System/Components/MainNav notifications 1`] = `
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M21.255 12c0 .408-.037.792-.086 1.176l2.603 1.98c.234.18.296.504.148.768l-2.467 4.152c-.148.264-.47.372-.753.264l-3.072-1.2a9.544 9.544 0 01-2.085 1.176l-.468 3.18a.596.596 0 01-.605.504H9.535a.597.597 0 01-.604-.504l-.469-3.18a9.077 9.077 0 01-2.085-1.176l-3.072 1.2c-.271.096-.604 0-.752-.264L.086 15.924a.594.594 0 01.148-.768l2.603-1.98A9.263 9.263 0 012.75 12c0-.396.037-.792.087-1.176L.234 8.844a.581.581 0 01-.148-.768l2.467-4.152c.148-.264.469-.372.752-.264l3.072 1.2a9.545 9.545 0 012.085-1.176l.469-3.18A.597.597 0 019.535 0h4.935c.308 0 .567.216.604.504l.47 3.18c.752.3 1.443.696 2.084 1.176l3.072-1.2c.271-.096.605 0 .753.264l2.467 4.152a.594.594 0 01-.148.768l-2.603 1.98c.05.384.086.768.086 1.176zm-13.57 0c0 2.316 1.937 4.2 4.318 4.2 2.38 0 4.318-1.884 4.318-4.2 0-2.316-1.937-4.2-4.318-4.2-2.381 0-4.318 1.884-4.318 4.2z"
+                              d="M2.68 9.192c-.6.276-2.114 1.18-2.306 1.303a.792.792 0 00-.374.68v1.65a.797.797 0 00.384.687c.254.16 1.73 1.042 2.306 1.303l.744 1.8c-.24.634-.67 2.333-.72 2.554a.797.797 0 00.216.744l1.167 1.166a.801.801 0 00.744.216l.03-.008c.36-.092 1.946-.498 2.523-.712l1.8.744c.276.6 1.181 2.115 1.304 2.307a.805.805 0 00.679.374h1.649a.797.797 0 00.686-.384c.16-.254 1.042-1.73 1.303-2.306l1.8-.744c.634.24 2.333.67 2.554.72a.797.797 0 00.744-.216l1.166-1.167a.803.803 0 00.216-.744l-.008-.03c-.092-.36-.498-1.946-.712-2.523l.744-1.8c.6-.276 2.115-1.181 2.307-1.304a.804.804 0 00.374-.679v-1.649a.796.796 0 00-.382-.679c-.254-.16-1.73-1.041-2.306-1.303l-.744-1.8c.24-.634.67-2.333.72-2.554a.796.796 0 00-.216-.744l-1.166-1.173a.802.802 0 00-.744-.216l-.03.008c-.361.092-1.947.498-2.524.712l-1.8-.744c-.276-.6-1.18-2.115-1.303-2.307a.803.803 0 00-.68-.374h-1.65a.797.797 0 00-.68.382c-.16.254-1.041 1.73-1.303 2.306l-1.8.744c-.634-.24-2.333-.67-2.554-.72a.797.797 0 00-.744.216L2.921 4.094a.802.802 0 00-.216.744l.008.03c.092.361.498 1.947.712 2.524l-.744 1.8zM12 17a5 5 0 100-10 5 5 0 000 10z"
                               fill="#212134"
                               fill-rule="evenodd"
                             />
@@ -24116,13 +24127,13 @@ exports[`Storyshots Design System/Components/NumberInput base 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -24139,13 +24150,13 @@ exports[`Storyshots Design System/Components/NumberInput base 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -24430,13 +24441,13 @@ exports[`Storyshots Design System/Components/NumberInput disabled 1`] = `
                 class="c10 c11"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -24454,13 +24465,13 @@ exports[`Storyshots Design System/Components/NumberInput disabled 1`] = `
                 class="c10 c11"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -24746,13 +24757,13 @@ exports[`Storyshots Design System/Components/NumberInput required 1`] = `
                 class="c12 c13"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -24769,13 +24780,13 @@ exports[`Storyshots Design System/Components/NumberInput required 1`] = `
                 class="c12 c13"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25080,13 +25091,13 @@ exports[`Storyshots Design System/Components/NumberInput size S 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25103,13 +25114,13 @@ exports[`Storyshots Design System/Components/NumberInput size S 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25422,13 +25433,13 @@ exports[`Storyshots Design System/Components/NumberInput with initial 0 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25445,13 +25456,13 @@ exports[`Storyshots Design System/Components/NumberInput with initial 0 1`] = `
                 class="c11 c12"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25704,13 +25715,13 @@ exports[`Storyshots Design System/Components/NumberInput withoutLabel 1`] = `
                 class="c8 c9"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -25727,13 +25738,13 @@ exports[`Storyshots Design System/Components/NumberInput withoutLabel 1`] = `
                 class="c8 c9"
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -26096,7 +26107,7 @@ exports[`Storyshots Design System/Components/Pagination base 1`] = `
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
-              d="M.12 1.88L6.227 8 .12 14.12 2 16l8-8-8-8L.12 1.88z"
+              d="M0 1.88L6.107 8 0 14.12 1.88 16l8-8-8-8L0 1.88z"
               fill="#32324D"
             />
           </svg>
@@ -27413,13 +27424,13 @@ exports[`Storyshots Design System/Components/Select base 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -27705,13 +27716,13 @@ exports[`Storyshots Design System/Components/Select multi 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -27997,13 +28008,13 @@ exports[`Storyshots Design System/Components/Select multi-nested 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -28322,13 +28333,13 @@ exports[`Storyshots Design System/Components/Select multi-withTags 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -28625,13 +28636,13 @@ exports[`Storyshots Design System/Components/Select size-S 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -28911,13 +28922,13 @@ exports[`Storyshots Design System/Components/Select withoutLabel 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -29149,13 +29160,13 @@ exports[`Storyshots Design System/Components/SimpleMenu base 1`] = `
             aria-hidden="true"
             fill="none"
             height="1em"
-            viewBox="0 0 14 8"
+            viewBox="0 0 24 24"
             width="1em"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
               clip-rule="evenodd"
-              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
               fill="#32324D"
               fill-rule="evenodd"
             />
@@ -29301,13 +29312,13 @@ exports[`Storyshots Design System/Components/SimpleMenu with-iconbutton 1`] = `
         <svg
           fill="none"
           height="1em"
-          viewBox="0 0 14 8"
+          viewBox="0 0 24 24"
           width="1em"
           xmlns="http://www.w3.org/2000/svg"
         >
           <path
             clip-rule="evenodd"
-            d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+            d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
             fill="#32324D"
             fill-rule="evenodd"
           />
@@ -29523,13 +29534,13 @@ exports[`Storyshots Design System/Components/SimpleMenu with-links 1`] = `
             aria-hidden="true"
             fill="none"
             height="1em"
-            viewBox="0 0 14 8"
+            viewBox="0 0 24 24"
             width="1em"
             xmlns="http://www.w3.org/2000/svg"
           >
             <path
               clip-rule="evenodd"
-              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
               fill="#32324D"
               fill-rule="evenodd"
             />
@@ -30331,13 +30342,13 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
                         aria-hidden="true"
                         fill="none"
                         height="1em"
-                        viewBox="0 0 14 8"
+                        viewBox="0 0 24 24"
                         width="1em"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
                           clip-rule="evenodd"
-                          d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                          d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                           fill="#32324D"
                           fill-rule="evenodd"
                         />
@@ -30560,13 +30571,13 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
                         aria-hidden="true"
                         fill="none"
                         height="1em"
-                        viewBox="0 0 14 8"
+                        viewBox="0 0 24 24"
                         width="1em"
                         xmlns="http://www.w3.org/2000/svg"
                       >
                         <path
                           clip-rule="evenodd"
-                          d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                          d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                           fill="#32324D"
                           fill-rule="evenodd"
                         />
@@ -30606,13 +30617,13 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
                             aria-hidden="true"
                             fill="none"
                             height="1em"
-                            viewBox="0 0 14 8"
+                            viewBox="0 0 24 24"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                               fill="#32324D"
                               fill-rule="evenodd"
                             />
@@ -31237,13 +31248,13 @@ exports[`Storyshots Design System/Components/SubNav base 1`] = `
                             aria-hidden="true"
                             fill="none"
                             height="1em"
-                            viewBox="0 0 14 8"
+                            viewBox="0 0 24 24"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                               fill="#32324D"
                               fill-rule="evenodd"
                             />
@@ -32477,7 +32488,7 @@ exports[`Storyshots Design System/Components/Table base 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -32615,7 +32626,7 @@ exports[`Storyshots Design System/Components/Table base 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -32753,7 +32764,7 @@ exports[`Storyshots Design System/Components/Table base 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -32891,7 +32902,7 @@ exports[`Storyshots Design System/Components/Table base 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -33029,7 +33040,7 @@ exports[`Storyshots Design System/Components/Table base 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -33699,7 +33710,7 @@ exports[`Storyshots Design System/Components/Table base without footer 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -33837,7 +33848,7 @@ exports[`Storyshots Design System/Components/Table base without footer 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -33975,7 +33986,7 @@ exports[`Storyshots Design System/Components/Table base without footer 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -34113,7 +34124,7 @@ exports[`Storyshots Design System/Components/Table base without footer 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -34251,7 +34262,7 @@ exports[`Storyshots Design System/Components/Table base without footer 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -34757,13 +34768,13 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                           <svg
                             fill="none"
                             height="1em"
-                            viewBox="0 0 14 8"
+                            viewBox="0 0 24 24"
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
                             <path
                               clip-rule="evenodd"
-                              d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                              d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                               fill="#32324D"
                               fill-rule="evenodd"
                             />
@@ -34970,7 +34981,7 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -35108,7 +35119,7 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -35246,7 +35257,7 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -35384,7 +35395,7 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -35522,7 +35533,7 @@ exports[`Storyshots Design System/Components/Table with th actions 1`] = `
                         >
                           <path
                             clip-rule="evenodd"
-                            d="M23.605 3.514c.527.528.527 1.36 0 1.887l-2.623 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.119 3.118zM0 24v-4.989l14.2-14.2L19.19 9.8 4.99 24H0z"
+                            d="M23.604 3.514c.528.528.528 1.36 0 1.887l-2.622 2.607-4.99-4.99L18.6.396a1.322 1.322 0 011.887 0l3.118 3.118zM0 24v-4.99l14.2-14.2 4.99 4.99L4.99 24H0z"
                             fill="#212134"
                             fill-rule="evenodd"
                           />
@@ -38830,13 +38841,13 @@ exports[`Storyshots Design System/Components/TimePicker 30-mns-step 1`] = `
               <svg
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -39129,13 +39140,13 @@ exports[`Storyshots Design System/Components/TimePicker base 1`] = `
               <svg
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -39433,13 +39444,13 @@ exports[`Storyshots Design System/Components/TimePicker disabled 1`] = `
               <svg
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
@@ -39769,13 +39780,13 @@ exports[`Storyshots Design System/Components/TimePicker initial-data 1`] = `
                 <svg
                   fill="none"
                   height="1em"
-                  viewBox="0 0 14 8"
+                  viewBox="0 0 24 24"
                   width="1em"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path
                     clip-rule="evenodd"
-                    d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                    d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                     fill="#32324D"
                     fill-rule="evenodd"
                   />
@@ -40069,13 +40080,13 @@ exports[`Storyshots Design System/Components/TimePicker size S 1`] = `
               <svg
                 fill="none"
                 height="1em"
-                viewBox="0 0 14 8"
+                viewBox="0 0 24 24"
                 width="1em"
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
                   clip-rule="evenodd"
-                  d="M14 .889a.86.86 0 01-.26.625L7.615 7.736A.834.834 0 017 8a.834.834 0 01-.615-.264L.26 1.514A.861.861 0 010 .889c0-.24.087-.45.26-.625A.834.834 0 01.875 0h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
+                  d="M19 8.889a.86.86 0 01-.26.625l-6.125 6.222A.834.834 0 0112 16a.834.834 0 01-.615-.264L5.26 9.514A.861.861 0 015 8.889c0-.24.087-.45.26-.625A.834.834 0 015.875 8h12.25c.237 0 .442.088.615.264a.86.86 0 01.26.625z"
                   fill="#32324D"
                   fill-rule="evenodd"
                 />
